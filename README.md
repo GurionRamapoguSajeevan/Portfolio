@@ -73,14 +73,14 @@ _Malla Reddy Engineering College, India (2015 – 2019)_
 
 ## 📜 Certifications
 
-- **Generative AI Fundamentals** – Databricks (June 2025)
+- [**Generative AI Fundamentals**](https://www.databricks.com/learn/training/generative-ai-fundamentals](https://credentials.databricks.com/593fdfdf-fc3e-445d-b606-4c61b2dbd6ed#acc.gqUFxNmD)) – Databricks (June 2025)
 
 ---
 
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rs-gurion/)
-- 🧑‍💻 [Portfolio Website](https://GurionRamapoguSajeevan.github.io)
+- 🧑‍💻 [Github Portfolio](https://GurionRamapoguSajeevan.github.io)
 - 📫 Email: **gurion7007@gmail.com**
 
 ---
