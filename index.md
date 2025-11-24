@@ -10,7 +10,7 @@ I’m **Gurion Ramapogu**.
 
 I'm a **Data Analyst** specializing in **ML**, **Deep Learning**, **LLMs**, **NLP**, **GenAI** and **Cloud MLOps**.
 
-Cincinnati, Ohio, USA | [gurion7007@gmail.com](gurion7007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rs-gurion/) | [GitHub](https://github.com/GurionRamapoguSajeevan)
+Cincinnati, Ohio, USA | [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/rs-gurion/) | [GitHub](https://github.com/GurionRamapoguSajeevan)
 
 ---
 
@@ -99,9 +99,9 @@ _Python, Streamlit, XGBoost, Logistic Regression_
 
 ## Certifications
 
-- Databricks — [Generative AI Fundamentals](https://credentials.databricks.com/593fdfdf-fc3e-445d-b606-4c61b2dbd6ed#acc.gqUFxNmD) (Jun 2025)
+- **Databricks** — [Generative AI Fundamentals](https://credentials.databricks.com/593fdfdf-fc3e-445d-b606-4c61b2dbd6ed#acc.gqUFxNmD) (Jun 2025)
 
-- Oracle - Oracle Cloud Infrastructure (OCI) Associate (_In progress_ : Nov 2025)
+- **Oracle** — Oracle Cloud Infrastructure (OCI) Associate (_In progress_ : Nov 2025)
 
 ---
 
