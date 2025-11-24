@@ -1,14 +1,15 @@
 ---
 layout: default
 permalink: /
-title: "Gurion Ramapogu Sajeevan | Data Analyst & ML Practitioner"
+title: Home
 ---
 
-# Welcome to My Data Science & AI Portfolio
+# Welcome to My Data Science Portfolio!
 
-I’m **_Gurion Ramapogu_**, a **Data Analyst** specializing in **ML**, **Deep Learning**, **LLMs**, **NLP**, **GenAI** and **Cloud MLOps**.
+I’m **Gurion Ramapogu**. 
+I'm a **Data Analyst** specializing in **ML**, **Deep Learning**, **LLMs**, **NLP**, **GenAI** and **Cloud MLOps**.
 
-Cincinnati, Ohio, United States | [email](mailto:gurion7007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rs-gurion/) | [GitHub](https://github.com/GurionRamapoguSajeevan)
+Cincinnati, Ohio, USA | [gurion7007@gmail.com](gurion7007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rs-gurion/) | [GitHub](https://github.com/GurionRamapoguSajeevan)
 
 ---
 
@@ -65,35 +66,33 @@ _February 2025 – Present_
 
 **Data Analyst — Amazon**  
 _June 2019 – June 2023_  
-- Analyzed **1M+** customer interactions to identify patterns, increasing resolution efficiency by **15%** through optimized customer experience initiatives.  
-- Automated reporting systems using Python and **AWS Glue**, reducing manual effort by **70%** and enabling real-time decision-making.  
-- Built Power BI dashboards to track **KPIs** (CSAT, NPS, AHT), improving customer satisfaction by 12%.  
-- Devised machine learning models to predict customer behavior, improving first-contact resolution by 18%.  
-- Presented bi-weekly insights to senior leadership, contributing to a **25%** in **churn reduction** and **$2M** in **cost savings**.  
+- Led deep-dive analytics on over **1M+** customer interactions using **SQL** and **Python**, uncovering root causes of service inefficiencies and delivering recommendations that **boosted resolution efficiency** by **15%** and reduced repeat contact rates.
+- Engineered automated reporting pipelines with Python and **AWS Glue**, replacing manual Excel-based processes and **cutting reporting time by 70%**, enabling leaders to make real-time operational decisions.
+- Designed and maintained **KPI** dashboards in **Power BI** to monitor customer satisfaction (**CSAT**), net promoter score (**NPS**), and average handle time (**AHT**), giving stakeholders self-service access to performance metrics that drove a 12% increase in customer satisfaction scores.
+- Built ***predictive models** (Random Forest, Logistic Regression) in Python to forecast customer behaviour patterns, which informed proactive outreach strategies and increased first-contact resolution rates by 18%.
+- Collaborated with product managers, operations, and engineering teams to translate analytical insights into action plans, achieving **$2M annual cost savings** and **reducing customer churn by 25%**.
+  
 
 ---
 
 ## Key Projects
 
 **Self-Service Financial & Customer Retention Dashboard**
+
 _Python, Streamlit, XGBoost, Logistic Regression_
-* Built a **Streamlit** platform for real-time financial and churn analysis, delivering 85% prediction accuracy on churn and enabling investment prioritization.
+* Built a **Streamlit** platform for **real-time** financial and **churn analysis**, delivering **85%** prediction **accuracy** on churn and enabling investment prioritization.
 * Automated churn impact evaluations, cutting analysis time from 3 hours to <1 minute, accelerating strategic planning cycles.
-* Integrated XGBoost and Logistic Regression models with Tableau dashboards for predictive storytelling, empowering stakeholders with actionable insights.
+* Integrated **XGBoost** and **Random Forest** models with Tableau dashboards for predictive storytelling, empowering stakeholders with actionable insights.
 
 [_Read the full case study in the proejects page_](/projects) | [_View app on Streamlit_](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
 
-**Product Lifecycle Forecasting**  
-- Analyzed 1M+ Amazon sales records to predict product obsolescence, improving forecast accuracy by 15%.  
-- Developed automated inventory planning dashboards using Tableau, reducing manual planning time by 30%.  
-
 **Customer Risk Assessment & Segmentation**  
-- Built clustering models (K-Means) and classification models (Random Forest, AUC: 0.91) to predict loan defaults.  
+- Built clustering models (K-Means) and classification models (Random Forest, **AUC: 0.91**) to predict loan defaults.  
 - Designed real-time risk dashboards, reducing default rates by 17% in high-risk segments.  
 
 **Healthcare Data Pipeline Automation**  
-- Created automated SQL-Python pipelines for blood bank inventory, improving operations by 30%.  
-- Developed Tableau dashboards to reduce stockouts by 20% via real-time tracking.  
+- Created automated **SQL-Python pipelines** for blood bank inventory, improving operations by 30%.  
+- Developed **Tableau dashboards** to reduce stockouts by 20% via real-time tracking.  
 
 ---
 
