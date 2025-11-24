@@ -74,7 +74,7 @@ social_links:
   #twitter: your-twitter-handle # Optional
   
 # Configure jekyll-seo-tag for better metadata
-logo: /assets/images/profile-photo.jpg # Path to your profile image for sharing previews
+#logo: /assets/images/profile-photo.jpg # Path to your profile image for sharing previews
 
 # Customization hook for Minimal Theme (for custom CSS/head elements)
 head: |
