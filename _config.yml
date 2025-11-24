@@ -1,6 +1,7 @@
 # 1. Site Settings (The Basics)
 # ---
 title: "Gurion Ramapogu"
+logo: assets/portfolio_main.jpg
 email: gurion7007@gmail.com
 description: > # This description will appear in search engines and RSS feeds.
   A professional portfolio showcasing data science projects, machine learning models, 
@@ -74,7 +75,7 @@ social_links:
   #twitter: your-twitter-handle # Optional
   
 # Configure jekyll-seo-tag for better metadata
-#logo: /assets/images/profile-photo.jpg # Path to your profile image for sharing previews
+logo: assets/portfolio_main.jpg # Path to your profile image for sharing previews
 
 # Customization hook for Minimal Theme (for custom CSS/head elements)
 head: |
