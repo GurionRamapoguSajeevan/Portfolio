@@ -3,8 +3,8 @@
 title: "Gurion Ramapogu"
 logo: assets/portfolio_main_1.png
 email: gurion7007@gmail.com
-description: > # This description will appear in search engines and RSS feeds.
-  Curious data enthusiast exploring insights and innovation through every dataset.
+# description: > # This description will appear in search engines and RSS feeds.
+  #Curious data enthusiast exploring insights and innovation through every dataset.
 baseurl: "/Portfolio" # The subpath of your site, e.g. /blog
 url: "https://GurionRamapoguSajeevan.github.io" # The base hostname & protocol for your site
 repository: "GurionRamapoguSajeevan/Portfolio" # Your GitHub repository name
