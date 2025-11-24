@@ -10,7 +10,7 @@ I’m **Gurion Ramapogu**.
 
 I'm a **Data Analyst** specializing in **ML**, **Deep Learning**, **LLMs**, **NLP**, **GenAI** and **Cloud MLOps**.
 
-Cincinnati, Ohio, USA | [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/rs-gurion/) | [GitHub](https://github.com/GurionRamapoguSajeevan)
+Cincinnati, Ohio, USA | [gurion7007@gmail.com](mailto:gurion7007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rs-gurion/) | [GitHub](https://github.com/GurionRamapoguSajeevan)
 
 ---
 
