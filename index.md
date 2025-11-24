@@ -7,6 +7,7 @@ title: Home
 # Welcome to My Data Science Portfolio!
 
 I’m **Gurion Ramapogu**. 
+
 I'm a **Data Analyst** specializing in **ML**, **Deep Learning**, **LLMs**, **NLP**, **GenAI** and **Cloud MLOps**.
 
 Cincinnati, Ohio, USA | [gurion7007@gmail.com](gurion7007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rs-gurion/) | [GitHub](https://github.com/GurionRamapoguSajeevan)
