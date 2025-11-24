@@ -1,5 +1,6 @@
 ---
-layout: cayman
+layout: default
+permalink: /
 title: "Gurion Ramapogu Sajeevan | Data Analyst & ML Practitioner"
 ---
 
@@ -73,6 +74,12 @@ _June 2019 – June 2023_
 
 ## Key Projects
 
+**Self-Service Financial & Customer Retention Dashboard** | _Python, Streamlit, XGBoost, Logistic Regression_
+•	Built a Streamlit platform for real-time financial and churn analysis, delivering 85% prediction accuracy on churn and enabling investment prioritization.
+•	Automated churn impact evaluations, cutting analysis time from 3 hours to <1 minute, accelerating strategic planning cycles.
+•	Integrated XGBoost and Logistic Regression models with Tableau dashboards for predictive storytelling, empowering stakeholders with actionable insights.
+[_Read the full case study in the proejects page_](/projects) | [_View app on Streamlit_](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
+
 **Product Lifecycle Forecasting**  
 - Analyzed 1M+ Amazon sales records to predict product obsolescence, improving forecast accuracy by 15%.  
 - Developed automated inventory planning dashboards using Tableau, reducing manual planning time by 30%.  
@@ -89,8 +96,8 @@ _June 2019 – June 2023_
 
 ## Certifications
 
-- Databricks — Generative AI Fundamentals (June 2025)
-
+- Databricks — [Generative AI Fundamentals](https://credentials.databricks.com/593fdfdf-fc3e-445d-b606-4c61b2dbd6ed#acc.gqUFxNmD) (Jun 2025)
+- Oracle - Oracle Cloud Infrastructure (OCI) Associate (_In progress_ : Nov 2025)
 ---
 
-_Last updated: August 2025_
+_Last updated: November 2025_
