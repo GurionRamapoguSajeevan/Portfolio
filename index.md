@@ -90,11 +90,17 @@ _Python, Streamlit, XGBoost, Logistic Regression_
 
 [_Read the full case study in the proejects page_](/projects) | [_View app on Streamlit_](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
 
-**Customer Risk Assessment & Segmentation**  
+**Customer Risk Assessment & Segmentation**
+
+![Project 2](assets/Customer_risk_segmentation.jpg)
+
 - Built clustering models (K-Means) and classification models (Random Forest, **AUC: 0.91**) to predict loan defaults.  
 - Designed real-time risk dashboards, reducing default rates by 17% in high-risk segments.  
 
 **Healthcare Data Pipeline Automation**  
+
+![Project 3](assets/AdobeStock_553066789_data_automation.jpeg)
+
 - Created automated **SQL-Python pipelines** for blood bank inventory, improving operations by 30%.  
 - Developed **Tableau dashboards** to reduce stockouts by 20% via real-time tracking.  
 
