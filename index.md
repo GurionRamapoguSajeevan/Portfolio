@@ -80,7 +80,10 @@ _June 2019 – June 2023_
 
 **Self-Service Financial & Customer Retention Dashboard**
 
+[!ML & Analytics](assets/Churn_prediction.jpg)
+
 _Python, Streamlit, XGBoost, Logistic Regression_
+
 * Built a **Streamlit** platform for **real-time** financial and **churn analysis**, delivering **85%** prediction **accuracy** on churn and enabling investment prioritization.
 * Automated churn impact evaluations, cutting analysis time from 3 hours to <1 minute, accelerating strategic planning cycles.
 * Integrated **XGBoost** and **Random Forest** models with Tableau dashboards for predictive storytelling, empowering stakeholders with actionable insights.
