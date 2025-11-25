@@ -80,7 +80,7 @@ _Malla Reddy Engineering College, India (2015 – 2019)_
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rs-gurion/)
-- 🧑‍💻 [Github Portfolio](https://GurionRamapoguSajeevan.github.io)
+- 🧑‍💻 [Github Portfolio](https://GurionRamapoguSajeevan.github.io/Portfolio)
 - 📫 Email: **gurion7007@gmail.com**
 
 ---
