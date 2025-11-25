@@ -92,7 +92,7 @@ _Python, Streamlit, XGBoost, Logistic Regression_
 
 **Customer Risk Assessment & Segmentation**
 
-![Project 2](assets/Customer_risk_segmentation.jpg)
+![Project 2](assets/AdobeStock_289498406_customer_seg_2.jpeg)
 
 - Built clustering models (K-Means) and classification models (Random Forest, **AUC: 0.91**) to predict loan defaults.  
 - Designed real-time risk dashboards, reducing default rates by 17% in high-risk segments.  
