@@ -79,3 +79,6 @@ logo: assets/portfolio_main_1.png # Path to your profile image for sharing previ
 # Customization hook for Minimal Theme (for custom CSS/head elements)
 head: |
   <link rel="stylesheet" href="/assets/css/style.css">
+
+# This is for NAVIGATION BAR which is to be used on top of index.md
+# [Home](/Portfolio/) | [Projects](/Portfolio/projects) | [Experience](/Portfolio/Experience) | [Education](/Portfolio/Education) | [Skills](/Portfolio/Skills) | [Certifications](/Portfolio/certifications) | [Contact](/Portfolio/contact)
