@@ -4,6 +4,8 @@ permalink: /
 title: Home
 ---
 
+[Home](/) | [About](/about) | [Projects](/projects) | [Experience](/Experience) | [Education](/Education) | [Skills](/Skills) | [Certifications](/certifications) | [Contact](/contact)
+
 # Welcome to My Data Science Portfolio!
 
 I’m **Gurion Ramapogu**. 
