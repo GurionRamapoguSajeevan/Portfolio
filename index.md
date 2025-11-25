@@ -80,7 +80,7 @@ _June 2019 – June 2023_
 
 **Self-Service Financial & Customer Retention Dashboard**
 
-[!ML & Analytics](assets/Churn_prediction.jpg)
+![Project 1](assets/images/Churn_prediction.jpg)
 
 _Python, Streamlit, XGBoost, Logistic Regression_
 
