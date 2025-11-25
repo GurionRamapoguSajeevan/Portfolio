@@ -114,4 +114,19 @@ _Python, Streamlit, XGBoost, Logistic Regression_
 
 ---
 
+## Contact
+
+📧 | [gurion7007@gmail.com](mailto:gurion7007@gmail.com)
+---
+📞 | +1 (716) 9366-431
+---
+📍 | Cincinnati, Ohio, United States
+---
+📄 | [My Resume](https://drive.google.com/file/d/1ziErybOKBuyl9pwdgialvKRTACgIQOQu/view?usp=drive_link)
+---
+🔗 | [LinkedIn](https://www.linkedin.com/in/rs-gurion/)
+---
+🛠️ | [Github](https://github.com/GurionRamapoguSajeevan)
+---
+
 _Last updated: November 2025_
