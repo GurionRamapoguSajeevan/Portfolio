@@ -119,7 +119,7 @@ _Python, Streamlit, XGBoost, Logistic Regression_
 📍 Cincinnati, Ohio, United States  
 
 ---
-📄  [My Resume](https://drive.google.com/file/d/1ziErybOKBuyl9pwdgialvKRTACgIQOQu/view?usp=sharing)  
+📄  [My Resume](https://drive.google.com/file/d/13VZsWXda6NzDLMgQlxPsMvR3j_cNA9Hy/view?usp=sharing)  
 
 ---
 🔗  [LinkedIn](https://www.linkedin.com/in/rs-gurion/)  
