@@ -22,32 +22,6 @@ Data analyst with **4 years of experience** delivering business impact through *
 
 ## Technical Skills
 
-_**Data Analysis & Statistics**_  
-* Predictive Modeling, A/B Testing, Time Series Forecasting, Hypothesis Testing, Customer Segmentation
-
-_**Artificial Intelligence & Machine Learning**_ 
-* Supervised Learning (Random Forest, Logistic Regression, XGBoost)  
-* Unsupervised Learning (K-Means, DBSCAN, PCA)  
-* Time Series Forecasting (ARIMA, Prophet)  
-* Natural Language Processing (NLTK, spaCy, Transformers)  
-* Deep Learning (TensorFlow, PyTorch – beginner)  
-* Anomaly Detection, Model Deployment (Flask, Streamlit), MLOps (MLflow – beginner)
-
-_**Programming & Databases**_  
-* SQL (Advanced Queries, Optimization), Python (Pandas, NumPy, Scikit-learn), R, Advanced Excel
-
-_**Visualization & BI Tools**_  
-* Power BI, Tableau, Looker, SSRS
-
-_**Big Data & Cloud Technologies**_  
-* AWS (Redshift, Glue, S3, EMR), Snowflake, PySpark, Hadoop
-
-_**Project Management & Workflow**_  
-* Agile, JIRA, Confluence, Git, GitHub
----
-
-## Technical Skills #2
-
 * _**Data Analysis & Statistics**_: Predictive Modeling, A/B Testing, Time Series Forecasting, Hypothesis Testing, Customer Segmentation
 * _**Artificial Intelligence & Machine Learning**_: Supervised Learning (Random Forest, Logistic Regression, XGBoost), Unsupervised Learning (K-Means, DBSCAN, PCA), Time Series Forecasting (ARIMA, Prophet), LLMs, Natural Language Processing (NLTK, spaCy, Transformers), Deep Learning (TensorFlow, PyTorch – beginner), Anomaly Detection, Model Deployment (Flask, Streamlit), MLOps (MLflow – beginner)
 * _**Programming & Databases**_: SQL (Advanced Queries, Optimization), Python (Pandas, NumPy, Scikit-learn), R, Advanced Excel
