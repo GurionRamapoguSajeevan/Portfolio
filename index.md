@@ -80,6 +80,8 @@ _June 2019 – June 2023_
 
 **Self-Service Financial & Customer Retention Dashboard**
 
+[_Read the full case study in the proejects page_](https://github.com/GurionRamapoguSajeevan/Customer-Churn-Predictive-Analytics-Suite) | [_View app on Streamlit_](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
+
 [![Project 1](assets/Churn_prediction.jpg)](https://github.com/GurionRamapoguSajeevan/Customer-Churn-Predictive-Analytics-Suite)
 
 _Python, Streamlit, XGBoost, Logistic Regression_
@@ -88,18 +90,26 @@ _Python, Streamlit, XGBoost, Logistic Regression_
 * Automated churn impact evaluations, cutting analysis time from 3 hours to <1 minute, accelerating strategic planning cycles.
 * Integrated **XGBoost** and **Random Forest** models with Tableau dashboards for predictive storytelling, empowering stakeholders with actionable insights.
 
-[_Read the full case study in the proejects page_](/projects) | [_View app on Streamlit_](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
+**Sales & Customer Insights Dashboards: Tableau Analytics**
+
+[_View full project on Github_](https://github.com/GurionRamapoguSajeevan/Sales_and_Customer_Insights_Dashboards_Interactive_Tableau_project) | [_Click to View and test the Dashboards_](https://public.tableau.com/app/profile/gurion.ramapogu/viz/SalesCustomerDashboards_17642103195010/SalesDashboard)
+
+[![Project 2](assets/Sales_dashboard.png)](https://public.tableau.com/app/profile/gurion.ramapogu/viz/SalesCustomerDashboards_17642103195010/SalesDashboard)
+
+* Designed and deployed two interactive **Tableau dashboards** to analyze sales and customer **KPIs**, enabling users to track **YoY performance**, **monthly trends** across 20+ metrics.
+* Built dynamic **filters** to select and toggle **year**, **product categories** and **geographic regions** with cross-chart interactivity, improving data exploration **efficiency for stakeholders by an estimated 40%**.
+* Developed customer analytics components such as **Top 10 Profit Customers and order distribution** modeling, helping reveal high-value segments and **behaviour patterns**.
 
 **Customer Risk Assessment & Segmentation**
 
-![Project 2](assets/AdobeStock_289498406_customer_seg_2.jpeg)
+![Project 3](assets/AdobeStock_289498406_customer_seg_2.jpeg)
 
 - Built clustering models (K-Means) and classification models (Random Forest, **AUC: 0.91**) to predict loan defaults.  
 - Designed real-time risk dashboards, reducing default rates by 17% in high-risk segments.  
 
 **Healthcare Data Pipeline Automation**  
 
-![Project 3](assets/AdobeStock_553066789_data_automation.jpeg)
+![Project 4](assets/AdobeStock_553066789_data_automation.jpeg)
 
 - Created automated **SQL-Python pipelines** for blood bank inventory, improving operations by 30%.  
 - Developed **Tableau dashboards** to reduce stockouts by 20% via real-time tracking.  
