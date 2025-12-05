@@ -62,17 +62,33 @@ _June 2019 – June 2023_
 
 ## Key Projects
 
-**Self-Service Financial & Customer Retention Dashboard**
+**GenAI-Powered Customer Review Insights & Sentiment Engine** 
 
-[_Read the full case study in the proejects page_](https://github.com/GurionRamapoguSajeevan/Customer-Churn-Predictive-Analytics-Suite) | [_View app on Streamlit_](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
+[_View full_project on Github_](https://github.com/GurionRamapoguSajeevan/GenAI-customer-review-sentiment-engine) | [_View_Dashboard_on Streamlit_](https://genai-customer-review-sentiment-engine-srj4wycgcugxaxpaxuvxtd.streamlit.app/)
+
+[<img width="1641" height="825" alt="image" src="https://github.com/user-attachments/assets/6dd34ff1-b0b5-4917-a5e1-2b95c3843091" />](https://genai-customer-review-sentiment-engine-srj4wycgcugxaxpaxuvxtd.streamlit.app/)
+
+| _Tech Stack: Python, Pandas, NLTK/SpaCy, Streamlit, Plotly_
+
+* Led the entire project lifecycle for a **Voice of Customer (VoC)** solution, from data ingestion and feature engineering (text preprocessing) to insight delivery, ensuring data quality and integrity across the **analysis workflow**. The preprocessing pipeline was designed to optimize inputs for both **NLP/ML models** and subsequent analytical steps.
+* Translated complex AI/ML outputs into clear, interactive business intelligence by designing and deploying a dynamic **Streamlit Dashboard** (using Plotly/Seaborn). The dashboard visualizes **sentiment trends**, **LDA-derived product themes**, and **AI-extracted pain points** for immediate executive consumption.
+* Quantified business opportunities by analyzing **AI-extracted insights**, enabling product managers to rapidly prioritize improvements and successfully address over **60% of customer-identified pain points**, driving tangible improvements in Customer Experience (CX).
+
+---
+
+**Customer Churn Prediction & Retention Dashboard**
+
+[_View full_project on Github_](https://github.com/GurionRamapoguSajeevan/Customer-Churn-Predictive-Analytics-Suite) | [_View Dashboard on Streamlit_](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
 
 [![Project 1](assets/Churn_prediction.jpg)](https://github.com/GurionRamapoguSajeevan/Customer-Churn-Predictive-Analytics-Suite)
 
-_Python, Streamlit, XGBoost, Logistic Regression_
+| _Python, Streamlit, XGBoost, Logistic Regression_
 
 * Built a **Streamlit** platform for **real-time** financial and **churn analysis**, delivering **85%** prediction **accuracy** on churn and enabling investment prioritization.
 * Automated churn impact evaluations, cutting analysis time from 3 hours to <1 minute, accelerating strategic planning cycles.
 * Integrated **XGBoost** and **Random Forest** models with Tableau dashboards for predictive storytelling, empowering stakeholders with actionable insights.
+
+---
 
 **Sales & Customer Insights Dashboards: Tableau Analytics**
 
@@ -80,18 +96,28 @@ _Python, Streamlit, XGBoost, Logistic Regression_
 
 [![Project 2](assets/Sales_dashboard.png)](https://public.tableau.com/app/profile/gurion.ramapogu/viz/SalesCustomerDashboards_17642103195010/SalesDashboard)
 
+| _Tableau, Excel, SQL, Tableau Public_
+
 * Designed and deployed two interactive **Tableau dashboards** to analyze sales and customer **KPIs**, enabling users to track **YoY performance**, **monthly trends** across 20+ metrics.
 * Built dynamic **filters** to select and toggle **year**, **product categories** and **geographic regions** with cross-chart interactivity, improving data exploration **efficiency for stakeholders by an estimated 40%**.
 * Developed customer analytics components such as **Top 10 Profit Customers and order distribution** modeling, helping reveal high-value segments and **behaviour patterns**.
+
+---
 
 **Customer Risk Assessment & Segmentation**
 
 ![Project 3](assets/AdobeStock_289498406_customer_seg_2.jpeg)
 
+| _Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Streamlit, SQL_
+
 - Built clustering models (K-Means) and classification models (Random Forest, **AUC: 0.91**) to predict loan defaults.  
 - Designed real-time risk dashboards, reducing default rates by 17% in high-risk segments.  
 
+---
+
 **Healthcare Data Pipeline Automation**  
+
+| _SQL, Python (Pandas, Schedule), Tableau, Excel, Google Sheets API_
 
 ![Project 4](assets/AdobeStock_553066789_data_automation.jpeg)
 
