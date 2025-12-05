@@ -64,9 +64,9 @@ _June 2019 – June 2023_
 
 **GenAI-Powered Customer Review Insights & Sentiment Engine** 
 
-[_View full_project on Github_](https://github.com/GurionRamapoguSajeevan/GenAI-customer-review-sentiment-engine) | [_View_Dashboard_on Streamlit_](https://genai-customer-review-sentiment-engine-srj4wycgcugxaxpaxuvxtd.streamlit.app/)
+[_View full project on Github_](https://github.com/GurionRamapoguSajeevan/GenAI-customer-review-sentiment-engine) | [_View_Dashboard_on Streamlit_](https://genai-customer-review-sentiment-engine-srj4wycgcugxaxpaxuvxtd.streamlit.app/)
 
-[<img width="1641" height="825" alt="image" src="https://github.com/user-attachments/assets/6dd34ff1-b0b5-4917-a5e1-2b95c3843091" />](https://genai-customer-review-sentiment-engine-srj4wycgcugxaxpaxuvxtd.streamlit.app/)
+[![adrien-obMUS2F3MzM-unsplash](https://github.com/user-attachments/assets/2257fc41-6a00-410e-813c-6923ee686380)](https://genai-customer-review-sentiment-engine-srj4wycgcugxaxpaxuvxtd.streamlit.app/)
 
 | _Tech Stack: Python, Pandas, NLTK/SpaCy, Streamlit, Plotly_
 
@@ -78,7 +78,7 @@ _June 2019 – June 2023_
 
 **Customer Churn Prediction & Retention Dashboard**
 
-[_View full_project on Github_](https://github.com/GurionRamapoguSajeevan/Customer-Churn-Predictive-Analytics-Suite) | [_View Dashboard on Streamlit_](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
+[_View full project on Github_](https://github.com/GurionRamapoguSajeevan/Customer-Churn-Predictive-Analytics-Suite) | [_View Dashboard on Streamlit_](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
 
 [![Project 1](assets/Churn_prediction.jpg)](https://github.com/GurionRamapoguSajeevan/Customer-Churn-Predictive-Analytics-Suite)
 
