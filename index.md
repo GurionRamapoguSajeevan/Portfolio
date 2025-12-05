@@ -64,7 +64,7 @@ _June 2019 – June 2023_
 
 **GenAI-Powered Customer Review Insights & Sentiment Engine** 
 
-[_View full project on Github_](https://github.com/GurionRamapoguSajeevan/GenAI-customer-review-sentiment-engine) | [_View_Dashboard_on Streamlit_](https://genai-customer-review-sentiment-engine-srj4wycgcugxaxpaxuvxtd.streamlit.app/)
+[_View full project on Github_](https://github.com/GurionRamapoguSajeevan/GenAI-customer-review-sentiment-engine) | [_View Dashboard on Streamlit_](https://genai-customer-review-sentiment-engine-srj4wycgcugxaxpaxuvxtd.streamlit.app/)
 
 [![adrien-obMUS2F3MzM-unsplash](https://github.com/user-attachments/assets/2257fc41-6a00-410e-813c-6923ee686380)](https://genai-customer-review-sentiment-engine-srj4wycgcugxaxpaxuvxtd.streamlit.app/)
 
