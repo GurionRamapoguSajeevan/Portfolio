@@ -130,7 +130,7 @@ _June 2019 – June 2023_
 
 - **Databricks** — [Generative AI Fundamentals](https://credentials.databricks.com/593fdfdf-fc3e-445d-b606-4c61b2dbd6ed#acc.gqUFxNmD) (Jun 2025)
 
-- **Oracle** — Oracle Cloud Infrastructure (OCI) Associate (_In progress_ : Nov 2025)
+- **Oracle** — Oracle Cloud Infrastructure (OCI) Associate (_In progress_ : Jan 2025)
 
 ---
 
