@@ -16,7 +16,7 @@ Cincinnati, Ohio, USA | [gurion7007@gmail.com](mailto:gurion7007@gmail.com) | [L
 
 ## Professional Summary
 
-Data analyst with **4 years of experience** delivering business impact through **advanced analytics**. Proven ability to reduce operational costs by **20–25%** using predictive **modeling and automation**. Skilled in building full analytics pipelines—from data collection to visualization—and communicating actionable insights to stakeholders.
+**Data Analyst** with **4 years of experience** driving data-informed decisions, delivering **$2M+ in annual savings**, **reducing customer churn by 25%**, and improving satisfaction by **12%.** Expert in **SQL and Python** for analysis and automation, with strong experience building **QuickSight** and **Power BI dashboards** and **translating complex datasets into actionable insights for stakeholders and executives**. Proven ability to support strategic initiatives through KPI tracking, statistical analysis, and scalable reporting solutions.
 
 ---
 
@@ -27,17 +27,8 @@ Data analyst with **4 years of experience** delivering business impact through *
 * _**Programming & Databases**_: SQL (Advanced Queries, Optimization), Python (Pandas, NumPy, Scikit-learn), R, Advanced Excel
 * _**Visualization & BI Tools**_: Power BI, Tableau, Looker, SSRS
 * _**Big Data & Cloud Technologies**_: AWS (Redshift, Glue, S3, EMR), Snowflake, PySpark, Hadoop
-* _**Project Management & Workflow**_: Agile, JIRA, Confluence, Git, GitHub
+* _**Project Management & Workflow**_: Agile, JIRA, Confluence, Git, GitHub, CI/CD for Analytics
 
----
-
-## Education
-
-**Master of Science in Data Science**  
-_University at Buffalo, The State University of New York (Aug 2023 – Dec 2024)_
-
-**Bachelor of Technology in Electronics & Communication Engineering**  
-_Malla Reddy Engineering College, Telangana, India (Aug 2015 – Apr 2019)_
 
 ---
 
@@ -56,7 +47,6 @@ _June 2019 – June 2023_
 - Designed and maintained **KPI** dashboards in **Power BI** to monitor customer satisfaction (**CSAT**), net promoter score (**NPS**), and average handle time (**AHT**), giving stakeholders self-service access to performance metrics that drove a 12% increase in customer satisfaction scores.
 - Built ***predictive models** (Random Forest, Logistic Regression) in Python to forecast customer behaviour patterns, which informed proactive outreach strategies and increased first-contact resolution rates by 18%.
 - Collaborated with product managers, operations, and engineering teams to translate analytical insights into action plans, achieving **$2M annual cost savings** and **reducing customer churn by 25%**.
-  
 
 ---
 
@@ -126,6 +116,16 @@ _June 2019 – June 2023_
 
 ---
 
+## Education
+
+**Master of Science in Data Science**  
+_University at Buffalo, The State University of New York (Aug 2023 – Dec 2024)_
+
+**Bachelor of Technology in Electronics & Communication Engineering**  
+_Malla Reddy Engineering College, Telangana, India (Aug 2015 – Apr 2019)_
+
+---
+
 ## Certifications
 
 - **Databricks** — [Generative AI Fundamentals](https://credentials.databricks.com/593fdfdf-fc3e-445d-b606-4c61b2dbd6ed#acc.gqUFxNmD) (Jun 2025)
@@ -154,4 +154,4 @@ _June 2019 – June 2023_
 🛠️  [Github](https://github.com/GurionRamapoguSajeevan)  
 
 ---
-_Last updated: December 2025_
+_Last updated: February 2026_
