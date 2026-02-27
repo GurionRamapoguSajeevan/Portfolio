@@ -35,7 +35,7 @@ Cincinnati, Ohio, USA | [gurion7007@gmail.com](mailto:gurion7007@gmail.com) | [L
 ## Professional Experience
 
 **Data Analyst (Freelance) — Community Dreams Foundation**  
-_February 2025 – Present_  
+_February 2025 – February 2026_  
 - Analyzed multi-year energy consumption streams using **PySpark** and **SQL**, uncovering peak demand factors and supporting forecasts that cut utility costs by **13%**.  
 - Built interactive **Power BI dashboards** integrating IoT sensor data, automating anomaly alerts and saving **60%** in manual reporting workload.  
 - Developed and productionized **anomaly detection** algorithms with **Scikit-learn**, identifying irregular patterns and reducing billing-related disputes by **10%**.  
