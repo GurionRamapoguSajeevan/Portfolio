@@ -66,6 +66,21 @@ _June 2019 – June 2023_
 
 ---
 
+**Credit Risk Modeling ML Pipeline**
+
+[_View full project on Github_](https://github.com/GurionRamapoguSajeevan/credit-risk-modeling-ML-pipeline) | [_Click to View and test the Streamlit Dashboard_](https://grs-credit-risk-modeling-ml-pipeline-cns3z2uh5bpbijwpcwespo.streamlit.app/)
+
+![Project 3](assets/sasun-bughdaryan-sLevDCcgmUI-unsplash.jpg)
+
+| _Python, Pandas, NumPy, Scikit-learn, XGBoost, imbalanced-learn, SHAP, Matplotlib/Seaborn, Streamlit, DuckDB_
+
+- Developed an end-to-end Python pipeline for **predicting loan default risk** using a 32k-record dataset, incorporating data quality checks (imputation, outlier capping), EDA with feature engineering (e.g., DTI ratio), and preprocessing (SMOTE for imbalance, StandardScaler).
+- Implemented multiple modeling techniques (**Logistic Regression, Random Forest, XGBoost**), achieving **0.93 AUC-ROC** and **0.88 PR-AUC on XGBoost**; evaluated with confusion matrices and ROC/PR curves to quantify 25% false positive reduction.
+- Integrated **SHAP explainability** for global feature impact (e.g., loan grade as top driver) and local instance breakdowns, ensuring auditable decisions for compliance-heavy risk scenarios.
+- Deployed as an interactive Streamlit app for real-time predictions with non-technical explanations, simulating fraud/credit workflows for industries like lending and e-commerce.
+
+---
+
 **Customer Churn Prediction & Retention Dashboard**
 
 [_View full project on Github_](https://github.com/GurionRamapoguSajeevan/Customer-Churn-Predictive-Analytics-Suite) | [_View Dashboard on Streamlit_](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
@@ -90,18 +105,7 @@ _June 2019 – June 2023_
 
 * Designed and deployed two interactive **Tableau dashboards** to analyze sales and customer **KPIs**, enabling users to track **YoY performance**, **monthly trends** across 20+ metrics.
 * Built dynamic **filters** to select and toggle **year**, **product categories** and **geographic regions** with cross-chart interactivity, improving data exploration **efficiency for stakeholders by an estimated 40%**.
-* Developed customer analytics components such as **Top 10 Profit Customers and order distribution** modeling, helping reveal high-value segments and **behaviour patterns**.
-
----
-
-**Customer Risk Assessment & Segmentation**
-
-![Project 3](assets/AdobeStock_289498406_customer_seg_2.jpeg)
-
-| _Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Streamlit, SQL_
-
-- Built clustering models (K-Means) and classification models (Random Forest, **AUC: 0.91**) to predict loan defaults.  
-- Designed real-time risk dashboards, reducing default rates by 17% in high-risk segments.  
+* Developed customer analytics components such as **Top 10 Profit Customers and order distribution** modeling, helping reveal high-value segments and **behaviour patterns**.  
 
 ---
 
